@@ -19,7 +19,7 @@ This project is a multi-class classification model that predicts the career path
 3. Run all cells
 
 ## Results
-- Best model: Random Forest
+- Best model: Decision Tree
 - Accuracy: 96%
 
 ## License
