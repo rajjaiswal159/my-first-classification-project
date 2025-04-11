@@ -12,6 +12,7 @@ This project is a multi-class classification model that predicts the career path
 - Python
 - Pandas, NumPy
 - Scikit-learn
+- Streamlit (for UI)
 
 ## How to Run
 1. Clone the repo or download the `.ipynb` file
@@ -24,3 +25,13 @@ This project is a multi-class classification model that predicts the career path
 
 ## License
 Free to use for educational purposes
+
+
+🌐 Streamlit Web App
+I built an interactive web app using Streamlit so users can input their skills and interests to get a predicted career path.
+
+⚙️ How to Run Locally:
+git clone https://github.com/rajjaiswal159/my-first-classification-project.git
+cd your-repo
+pip install -r requirements.txt
+streamlit run app.py
