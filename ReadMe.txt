@@ -32,6 +32,6 @@ I built an interactive web app using Streamlit so users can input their skills a
 
 ⚙️ How to Run Locally:
 git clone https://github.com/rajjaiswal159/my-first-classification-project.git
-cd your-repo
+cd my-first-classification-project
 pip install -r requirements.txt
 streamlit run app.py
