@@ -2,6 +2,9 @@
 
 This project is a multi-class classification model that predicts the career path of a Computer Science student based on their skills and preferences.
 
+## Problem Statement
+Many students decide which field they want to enter, like Software Development, Data Science, or Cybersecurity—but they often struggle to choose a specific career path within that field. This confusion leads to uncertainty and poor career decisions. The goal of this project is to build a machine learning model that helps students by recommending a suitable and relevant career path based on their skills and interests.
+
 ## Project Overview
 - Multi-class classification with 35 possible career paths
 - Balanced dataset with features like programming skills, interests, and project types
