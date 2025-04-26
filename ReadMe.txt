@@ -24,7 +24,7 @@ Many students decide which field they want to enter, like Software Development, 
 
 ## Results
 - Best model: Decision Tree
-- Accuracy: 96%
+- Accuracy: 88%
 
 ## License
 Free to use for educational purposes
